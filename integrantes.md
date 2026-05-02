@@ -4,5 +4,5 @@ Diego Alvarado
 Jenniret Gonzalez
 Jenniret Gonzalez
 Xavierr Tirado
-Flor Mota   
-Odalys Escalona 
+Flor Mota
+Odalys Escalona
