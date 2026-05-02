@@ -1,5 +1,8 @@
-Eliezer Oswaldo Padron 
+Eliezer Oswaldo Padron
 Angely Diaz
-xavier tirado v-31304244
 Diego Alvarado
-Jenniret Gonzalez 
+Jenniret Gonzalez
+Jenniret Gonzalez
+Xavierr Tirado
+Flor Mota   
+Odalys Escalona
