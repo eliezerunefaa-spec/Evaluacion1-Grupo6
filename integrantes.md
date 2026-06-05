@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-Eliezer Oswaldo Padron 
-Angely Diaz
-xavier tirado v-31304244
-=======
-Eliezer Oswaldo Padron
-Angely Diaz
-Diego Alvarado
-Jenniret Gonzalez
-Xavierr Tirado  V-31304244
->>>>>>> 267e0e379b8d0ad0122bca4289bf24d507f324ae
+1.Eliezer Oswaldo Padron
+ 2.Angely Diaz          
+ 3.Jenniret Gonzalez
+ 4.Odalys Escalona
+ 5.Xavier Tierado
+ 6.Flor Mota
+ 7.Diego Alvarado  
+
