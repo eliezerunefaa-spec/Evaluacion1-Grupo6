@@ -14,7 +14,7 @@ cout << "3. Diego Alvarado CI: 30288527" <<endl;
 cout << "4. Flor Del Valle Mota CI: 30381658" <<endl;
 cout << "5. Xavier Tirado CI: 31304244 " <<endl;
 cout << "6. Jenniret González CI: 30801558" <<endl;
-cout << "7. Odalys Escalona CI: 30954025   " <<endl<<endl;
+cout << "7. Odalys Escalona Lameda CI: 30954025   " <<endl<<endl;
 
 return 0;
 
